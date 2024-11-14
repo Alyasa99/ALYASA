@@ -1,16 +1,16 @@
 {
-   "name": "Queen_Alya",
+   "name": "ALYASA",
    "version": "2.5.0",
    "description": "Multi device whatsapp bot by STAR KING.",
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
-      "run": "pm2 start . --deep-monitoring --attach --name Queen_Alya || node .",
-      "asta": "pm2 start . --deep-monitoring --attach --name Queen_Alya || node .",
+      "run": "pm2 start . --deep-monitoring --attach --name ALYASA || node .",
+      "asta": "pm2 start . --deep-monitoring --attach --name ALYASA || node .",
       "start": "pm2 start . --attach --name Queen_Alya",
-      "stop": "pm2 stop Queen_Alya",
-      "heroku-postbuild": "git clone https://github.com/STAR-KING0/Queen_Alya temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
-      "fis-heroku-postbuild": "git clone https://github.com/STAR-KING0/Queen_Alya.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
+      "stop": "pm2 stop ALYASA",
+      "heroku-postbuild": "git clone https://github.com/STAR-KING0/ALYASA temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
+      "fis-heroku-postbuild": "git clone https://github.com/STAR-KING0/ALYASA.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "postinstall": "npx puppeteer@latest install --y"
    },
    "author": "STAR KING",
@@ -77,10 +77,10 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/STAR-KING0/Queen_Alya.git"
+      "url": "git+https://github.com/STAR-KING0/ALYASA.git"
    },
    "bugs": {
-      "url": "https://github.com/STAR-KING0/Queen_Alya/issues"
+      "url": "https://github.com/STAR-KING0/ALYASA/issues"
    },
-   "homepage": "https://github.com/STAR-KING0/Queen_Alya#readme"
+   "homepage": "https://github.com/STAR-KING0/ALYASA#readme"
    }
