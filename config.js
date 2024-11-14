@@ -13,7 +13,7 @@ global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Lagos";
-global.github = process.env.GITHUB || "https://github.com/STAR-KING0/Queen_Alya";
+global.github = process.env.GITHUB || "https://github.com/STAR-KING0/ALYASA";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaeW5Tw4yltQOYIO5E2D";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaeW5Tw4yltQOYIO5E2D";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "./lib/alya.jpg";
@@ -48,10 +48,10 @@ module.exports = {
   HANDLERS: process.env.PREFIX || "+",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "`QUEEN_ALYA™`",
-  author: process.env.PACK_AUTHER || "QUEEN_ALYA",
-  packname: process.env.PACK_NAME || "A L Y A",
-  botname: process.env.BOT_NAME || "QUEEN_ALYA",
+  caption: process.env.CAPTION || "`ALYASA™`",
+  author: process.env.PACK_AUTHER || "ALYASA",
+  packname: process.env.PACK_NAME || "ALYASA",
+  botname: process.env.BOT_NAME || "ALYASA",
   ownername: process.env.OWNER_NAME || "STAR KING",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
@@ -64,7 +64,7 @@ module.exports = {
   aitts_Voice_Id: process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
   WORKTYPE: process.env.WORKTYPE || process.env.MODE || "private",
-  LANG: (process.env.THEME || "A L Y A").toUpperCase(),
+  LANG: (process.env.THEME || "ALYASA").toUpperCase(),
 };
 global.rank = "updated";
 global.isMongodb = true;
