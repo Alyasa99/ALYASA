@@ -235,7 +235,7 @@ smd({
     let { data: _0x44f98c } = await axios.get("https://api.github.com/repos/STAR-KING0/Queen_Alya");
     
     let _0x1c73f9 = (`
-QUEEN_ALYA ᴀ sɪᴍᴘʟᴇ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ, ᴍᴀᴅᴇ ʙʏ STAR KING ᴀɴᴅ ᴅᴇᴘʟᴏʏᴇᴅ ʙʏ *STAR KING*.
+ALYASA ᴀ sɪᴍᴘʟᴇ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ, ᴍᴀᴅᴇ ʙʏ STAR KING ᴀɴᴅ ᴅᴇᴘʟᴏʏᴇᴅ ʙʏ *STAR KING*.
 
   *❲❒❳ Stars:* ${_0x44f98c.stargazers_count} stars
   *❲❒❳ Forks:* ${_0x44f98c.forks_count} forks
