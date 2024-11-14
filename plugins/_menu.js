@@ -160,7 +160,7 @@ astro_patch.smd({
         'forwardingScore': 100, 
         'isForwarded': true,
         'externalAdReply': {
-          'title': 'QUEEN ALYA',
+          'title': 'ALYASA,
           'sourceUrl': 'https://whatsapp.com/channel/0029VaeW5Tw4yltQOYIO5E2D'
         }
       },
