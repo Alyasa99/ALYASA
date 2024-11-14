@@ -1,4 +1,4 @@
- # QUEEN_ALYA
+ # ALYASA
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <p align="center">
@@ -12,16 +12,16 @@
 <a href="https://github.com/STAR-KING0/Queen_Alya/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/STAR-KING0/QUEEN_ALYA?color=blue&style=flat-square"></a>
 <a href="https://github.com/STAR-KING0/Queen_Alya/network/members"><img title="Forks" src="https://img.shields.io/github/forks/STAR-KING0/QUEEN_ALYA?color=red&style=flat-square"></a>
 <a href="https://github.com/STAR-KING0/Queen_Alya/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/STAR-KING0/QUEEN_ALYA?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/STAR-KING0/Queen_Alya/"><img title="Size" src="https://img.shields.io/github/repo-size/STAR-KING0/QUEEN_ALYA?style=flat-square&color=green"></a>
+<a href="https://github.com/STAR-KING0/Queen_Alya/"><img title="Size" src="https://img.shields.io/github/repo-size/STAR-KING0/ALYASA?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSTAR-KING0%2FQueen_Alya&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/STAR-KING0/Queen_Alya/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/STAR-KING0/ALYASA/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
- ## QUEEN_ALYA Deployment Methods
+ ## ALYASA Deployment Methods
 
 ### 1. FORK THIS REPO
 
@@ -31,7 +31,7 @@
  
 <a href="https://alya-pair.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
-<a href="https://alya-pair.onrender.com/qr"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a>
+<a href="https://ALYASA.onrender.com/qr"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a>
 
 
 ### DEPLOY ON RENDER
@@ -54,7 +54,7 @@
     <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 2. Now deploy.
     <br>
-    <a href='https://dashboard.heroku.com/new?template=https://github.com/STAR-KING0/Queen_Alya' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+    <a href='https://dashboard.heroku.com/new?template=https://github.com/STAR-KING0/ALYASA target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 ### DEPLOY ON REPLIT
 1. Deploy.
     <br>
@@ -62,10 +62,10 @@
 ### DEPLOY ON RAILWAY
 1. Deploy.
     <br>
-    <a href='https://railway.com/github//STAR-KING0/Queen_Alya target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=railway&logoColor=white'/></a>
+    <a href='https://railway.com/github//STAR-KING0/ALYASA target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
     <h2 align="center"> ⚠️ NOTE  </h2>
-## QUEEN_ALYA SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
+## ALYASA SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
 
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
@@ -80,7 +80,7 @@
 <br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-* [🧑‍💻 Follow QUEEN_ALYA Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z)
+* [🧑‍💻 Follow ALYASA Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z)
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
