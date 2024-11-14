@@ -19,7 +19,7 @@ const os = require("os");
 const speed = require("performance-now");
 smd(
   {
-    pattern: "alyaai",
+    pattern: "alyasa",
     desc: "Generate an AI photo.",
     category: "nsfw",
     filename: __filename,
