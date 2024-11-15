@@ -78,7 +78,7 @@ smd({
     });
 
     let menuTitle = Math.random() < 0.5 ? "MENU" : "COMMANDS";
-    let menuText = `┏━━━━━━━━━━━━━━━━━━━━━━━━\n┃ *QUEEN-ALYA_${menuTitle}_LIST* \n┗━━━━━━━━━━━━━━━━━━━━━━━━\n\n\t\`Reply with the number to select a category\`\n\n`;
+    let menuText = `┏━━━━━━━━━━━━━━━━━━━━━━━━\n┃ *ALYASA_${menuTitle}_LIST* \n┗━━━━━━━━━━━━━━━━━━━━━━━━\n\n\t\`Reply with the number to select a category\`\n\n`;
     
     let categoryIndex = 1;
     let subIndex = 0;
