@@ -58,7 +58,7 @@ const path = require ("path");
 *Followers:* ${followers}
 *Description:* ${description || "No description provided"}
 
-\t*Queen_Alya WA STALKER*
+\t*Alyasa WA STALKER*
 `;
 
       await m.bot.sendFromUrl(m.from, img, caption, m, {}, "image");
@@ -112,7 +112,7 @@ smd(
 *Followers:* ${followers}
 *Following:* ${following}
 
-\t*Queen_Alya IG STALKER*
+\t*Alyasa IG STALKER*
 `;
 
       await m.send(caption);
@@ -171,7 +171,7 @@ smd(
 *Account Created:* ${created_at}
 *Last Updated:* ${updated_at}
 
-\t*Queen_Alya GitHub STALKER*
+\t*Alyasa GitHub STALKER*
 `;
 
       await m.bot.sendFromUrl(m.from, profile_pic, caption, m, {}, "image");
@@ -628,7 +628,7 @@ smd(
          },
          mimetype: "audio/mpeg",
          ptt: true,
-         fileName: "Queen_Alya-Md-tts.m4a"
+         fileName: "Alyasa.m4a"
        }, {
          quoted: _0x55aba2
        });
