@@ -243,7 +243,7 @@ smd(
         await m.bot.sendFromUrl(
           m.from,
           photoUrl,
-          "*Queen_Alya generated this photo*:",
+          "*Alyasa generated this photo*:",
           m,
           {},
           "image"
@@ -493,7 +493,7 @@ smd(
         await m.bot.sendFromUrl(
           m.from,
           photoUrl,
-          "*Queen_Alya generated this photo*:",
+          "*Alyasa generated this photo*:",
           m,
           {},
           "image"
@@ -559,7 +559,7 @@ smd(
           _0x3079e2.msgStatus = true;
           _0x3079e2.senderMsg = _0x358984;
           _0x5f656f =
-            "*QUEEN_ALYAᴅ • ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ*\n\n*Msg_Id:* " +
+            "*ALYASA• ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ*\n\n*Msg_Id:* " +
             _0x3079e2.id +
             "\n*Date:* _" +
             _0xbcd286 +
@@ -602,8 +602,8 @@ smd(
             return;
           }
           if (
-            _0x2acf30.reply_text.includes("QUEEN_ALYA• ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ") &&
-            _0x2dfb59[0].includes("QUEEN_ALYA • ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ") &&
+            _0x2acf30.reply_text.includes("ALYASA• ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ") &&
+            _0x2dfb59[0].includes("ALYASA • ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ") &&
             _0x2dfb59[2].includes("Msg_Id")
           ) {
             let _0x1b0d01 = "" + _0x2dfb59[2].replace("*Msg_Id:* ", "").trim();
@@ -618,7 +618,7 @@ smd(
                   _0x2ecd2a.howmanyreply += 1;
                   const _0x5a2204 = _0x2acf30.text.indexOf(",");
                   let _0x3f6b59 =
-                    "*QUEEN_ALYA • ʏᴏᴜʀ ᴀɴᴏɴʏ-ᴍsɢ ʀᴇᴘʟʏ*\n\n*_From @" +
+                    "*ALYASA• ʏᴏᴜʀ ᴀɴᴏɴʏ-ᴍsɢ ʀᴇᴘʟʏ*\n\n*_From @" +
                     _0x2ecd2a.reciever.split("@")[0] +
                     "_*\n*_Msg_Id: " +
                     _0x2ecd2a.id +
