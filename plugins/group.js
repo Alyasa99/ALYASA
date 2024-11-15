@@ -24,10 +24,10 @@ const {
   createSticker,
   StickerTypes
 } = require("wa-sticker-formatter");
-const Queen_Alya = require("../lib/plugins");
+const Alyasa = require("../lib/plugins");
 const {
   cmd
-} = Queen_Alya;
+} = Alyasa;
 smd({
   'cmdname': "join",
   'info': "joins group by link",
